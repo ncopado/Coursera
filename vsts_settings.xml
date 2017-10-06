@@ -1,10 +1,37 @@
 <application>
   <component name="VSTSSettings">
     <option name="serverContexts">
-      <array />
+      <array>
+        <ServerContextState>
+          <option name="type" value="VSO" />
+          <option name="uri" value="https://eliaspacho772.visualstudio.com/_git/Control%20Fraccionamiento%20Android" />
+          <option name="serverUri" value="https://eliaspacho772.visualstudio.com" />
+          <option name="userId" value="a53de8b6-374a-48df-b2a8-563dc04a357d" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;0eb5f929-081f-40ba-8e3a-0d8e08fcf693&quot;,&quot;name&quot;:&quot;eliaspacho772&quot;,&quot;url&quot;:&quot;https://eliaspacho772.visualstudio.com/_apis/projectCollections/0eb5f929-081f-40ba-8e3a-0d8e08fcf693&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;a2af6c73-40ee-41b4-8cf1-46d2d01eeef8&quot;,&quot;name&quot;:&quot;Control Fraccionamiento Android&quot;,&quot;revision&quot;:438066868,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://eliaspacho772.visualstudio.com/_apis/projects/a2af6c73-40ee-41b4-8cf1-46d2d01eeef8&quot;}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:&quot;refs/heads/master&quot;,&quot;id&quot;:&quot;1159d285-b0b8-4c61-a25b-bfc3a0613297&quot;,&quot;name&quot;:&quot;Control Fraccionamiento Android&quot;,&quot;remoteUrl&quot;:&quot;https://eliaspacho772.visualstudio.com/_git/Control%20Fraccionamiento%20Android&quot;,&quot;url&quot;:&quot;https://eliaspacho772.visualstudio.com/_apis/git/repositories/1159d285-b0b8-4c61-a25b-bfc3a0613297&quot;,&quot;_links&quot;:null,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;a2af6c73-40ee-41b4-8cf1-46d2d01eeef8&quot;,&quot;name&quot;:&quot;Control Fraccionamiento Android&quot;,&quot;revision&quot;:438066868,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://eliaspacho772.visualstudio.com/_apis/projects/a2af6c73-40ee-41b4-8cf1-46d2d01eeef8&quot;}}" />
+        </ServerContextState>
+        <ServerContextState>
+          <option name="type" value="VSO_DEPLOYMENT" />
+          <option name="uri" value="https://app.vssps.visualstudio.com" />
+          <option name="serverUri" value="https://app.vssps.visualstudio.com" />
+          <option name="userId" value="a53de8b6-374a-48df-b2a8-563dc04a357d" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:null,&quot;name&quot;:null,&quot;url&quot;:null}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:null,&quot;name&quot;:null,&quot;revision&quot;:0,&quot;state&quot;:null,&quot;url&quot;:null}" />
+        </ServerContextState>
+      </array>
     </option>
     <option name="properties">
-      <array />
+      <array>
+        <PropertyState>
+          <option name="name" value="repoRoot" />
+          <option name="value" value="$USER_HOME$/AndroidStudioProjects/SmartAccess" />
+        </PropertyState>
+        <PropertyState>
+          <option name="name" value="lastContextKey" />
+          <option name="value" value="//eliaspacho772.visualstudio.com/_git/control fraccionamiento android" />
+        </PropertyState>
+      </array>
     </option>
   </component>
 </application>
