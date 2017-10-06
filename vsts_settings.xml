@@ -19,6 +19,15 @@
           <option name="teamProjectCollectionReference" value="{&quot;id&quot;:null,&quot;name&quot;:null,&quot;url&quot;:null}" />
           <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:null,&quot;name&quot;:null,&quot;revision&quot;:0,&quot;state&quot;:null,&quot;url&quot;:null}" />
         </ServerContextState>
+        <ServerContextState>
+          <option name="type" value="VSO" />
+          <option name="uri" value="https://eliaspacho772.visualstudio.com/_git/Smart%20Access%20Android%20Client" />
+          <option name="serverUri" value="https://eliaspacho772.visualstudio.com" />
+          <option name="userId" value="a53de8b6-374a-48df-b2a8-563dc04a357d" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;0eb5f929-081f-40ba-8e3a-0d8e08fcf693&quot;,&quot;name&quot;:&quot;eliaspacho772&quot;,&quot;url&quot;:&quot;https://eliaspacho772.visualstudio.com/_apis/projectCollections/0eb5f929-081f-40ba-8e3a-0d8e08fcf693&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;1c8e6319-da32-4080-a704-b85bc5e98d65&quot;,&quot;name&quot;:&quot;Smart Access Android Client&quot;,&quot;revision&quot;:438066946,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://eliaspacho772.visualstudio.com/_apis/projects/1c8e6319-da32-4080-a704-b85bc5e98d65&quot;}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;1dd539a8-3564-42c5-baa9-6f7a3bdb0137&quot;,&quot;name&quot;:&quot;Smart Access Android Client&quot;,&quot;remoteUrl&quot;:&quot;https://eliaspacho772.visualstudio.com/_git/Smart%20Access%20Android%20Client&quot;,&quot;url&quot;:&quot;https://eliaspacho772.visualstudio.com/_apis/git/repositories/1dd539a8-3564-42c5-baa9-6f7a3bdb0137&quot;,&quot;_links&quot;:null,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;1c8e6319-da32-4080-a704-b85bc5e98d65&quot;,&quot;name&quot;:&quot;Smart Access Android Client&quot;,&quot;revision&quot;:438066946,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://eliaspacho772.visualstudio.com/_apis/projects/1c8e6319-da32-4080-a704-b85bc5e98d65&quot;}}" />
+        </ServerContextState>
       </array>
     </option>
     <option name="properties">
@@ -29,7 +38,7 @@
         </PropertyState>
         <PropertyState>
           <option name="name" value="lastContextKey" />
-          <option name="value" value="//eliaspacho772.visualstudio.com/_git/control fraccionamiento android" />
+          <option name="value" value="//eliaspacho772.visualstudio.com/_git/smart access android client" />
         </PropertyState>
       </array>
     </option>
