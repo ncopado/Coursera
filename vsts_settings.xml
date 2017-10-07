@@ -12,14 +12,6 @@
           <option name="gitRepository" value="{&quot;defaultBranch&quot;:&quot;refs/heads/master&quot;,&quot;id&quot;:&quot;1159d285-b0b8-4c61-a25b-bfc3a0613297&quot;,&quot;name&quot;:&quot;Control Fraccionamiento Android&quot;,&quot;remoteUrl&quot;:&quot;https://eliaspacho772.visualstudio.com/_git/Control%20Fraccionamiento%20Android&quot;,&quot;url&quot;:&quot;https://eliaspacho772.visualstudio.com/_apis/git/repositories/1159d285-b0b8-4c61-a25b-bfc3a0613297&quot;,&quot;_links&quot;:null,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;a2af6c73-40ee-41b4-8cf1-46d2d01eeef8&quot;,&quot;name&quot;:&quot;Control Fraccionamiento Android&quot;,&quot;revision&quot;:438066868,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://eliaspacho772.visualstudio.com/_apis/projects/a2af6c73-40ee-41b4-8cf1-46d2d01eeef8&quot;}}" />
         </ServerContextState>
         <ServerContextState>
-          <option name="type" value="VSO_DEPLOYMENT" />
-          <option name="uri" value="https://app.vssps.visualstudio.com" />
-          <option name="serverUri" value="https://app.vssps.visualstudio.com" />
-          <option name="userId" value="a53de8b6-374a-48df-b2a8-563dc04a357d" />
-          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:null,&quot;name&quot;:null,&quot;url&quot;:null}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:null,&quot;name&quot;:null,&quot;revision&quot;:0,&quot;state&quot;:null,&quot;url&quot;:null}" />
-        </ServerContextState>
-        <ServerContextState>
           <option name="type" value="VSO" />
           <option name="uri" value="https://eliaspacho772.visualstudio.com/_git/Smart%20Access%20Android%20Client" />
           <option name="serverUri" value="https://eliaspacho772.visualstudio.com" />
